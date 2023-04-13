@@ -6,12 +6,14 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "serve": "nuxt storybook"
   },
   "devDependencies": {
     "nuxt": "^3.3.2"
   },
   "dependencies": {
+    "@nuxtjs/storybook": "^4.3.2",
     "less": "^4.1.3"
   }
 }
