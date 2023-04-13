@@ -2,6 +2,7 @@
   <NuxtLayout>
     <main>
       <h1>dashboard page</h1>
+      <h2>I'm done feat1</h2>
     </main>
   </NuxtLayout>
 </template>
