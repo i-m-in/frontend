@@ -7,6 +7,9 @@
 
 <style lang="less">
 .header_line {
+  position: sticky;
+  top: 0;
+  z-index: 4;
   display: block;
   content: ' ';
   width: 100vw;
